@@ -1,0 +1,23 @@
+a{
+  color: white;
+  background: black;
+  font-size: 40px;
+  border-radius: 10px;
+  margin-right: 60px;
+  font-family: URW Chancery L, cursive;
+}
+p{
+  color: red;
+  font-size: 200px;
+  font-family: 'Mystery Quest', cursive;
+  text-align: center;
+}
+
+body {
+  background: linear-gradient(
+    rgba(255,255,255,0.5),
+    rgba(255,255,255,0.5)
+    ),url(https://images.wallpaperscraft.com/image/assassins_creed_black_flag_pirates_114100_1920x1080.jpg);
+  background-size: auto;
+  background-attachment: fixed;
+}

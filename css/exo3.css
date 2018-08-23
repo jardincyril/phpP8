@@ -1,0 +1,19 @@
+a{
+  color: white;
+  background: black;
+  font-size: 40px;
+  border-radius: 10px;
+  margin-right: 60px;
+  font-family: URW Chancery L, cursive;
+}
+body{
+    background: linear-gradient(to right, transparent, mistyrose),
+     url(https://images.wallpaperscraft.com/image/dragon_fin_soup_ridding_hood_wolf_dragon_gun_94263_1920x1080.jpg);
+    background-size: auto;
+    background-attachment: fixed;
+}
+label{
+  color: black;
+  font-size: 80px;
+  font-family: 'Mystery Quest', cursive;
+}

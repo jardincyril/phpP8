@@ -1,0 +1,21 @@
+a{
+  color: white;
+  background: black;
+  font-size: 40px;
+  border-radius: 10px;
+  margin-right: 60px;
+  font-family: URW Chancery L, cursive;
+}
+p{
+  color: black;
+  font-size: 100px;
+  font-family: 'Mystery Quest', cursive;
+}
+body{
+  width: 100%;
+  height: 935px;
+  background: linear-gradient(to left, transparent, mistyrose),
+  url(https://images.wallpaperscraft.com/image/snail_shell_light_wood_60078_1920x1080.jpg);
+  background-size: auto;
+  background-attachment: fixed;
+}

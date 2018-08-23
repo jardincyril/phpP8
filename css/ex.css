@@ -1,0 +1,19 @@
+a{
+  color: white;
+  background: black;
+  font-size: 40px;
+  border-radius: 10px;
+  margin-right: 60px;
+  font-family: URW Chancery L, cursive;
+}
+p{
+  color: white;
+  font-size: 100px;
+  font-family: 'Mystery Quest', cursive;
+  font-style: italic;
+}
+body{
+    background-image: url(https://i.pinimg.com/originals/ec/aa/03/ecaa030e8415f6435509b106898f7bf4.gif);
+    background-size: cover;
+    background-attachment: fixed;
+}

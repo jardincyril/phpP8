@@ -1,0 +1,19 @@
+a{
+  color: white;
+  background: black;
+  font-size: 60px;
+  border-radius: 10px;
+  margin-right: 60px;
+  font-family: URW Chancery L, cursive;
+}
+body,html{margin:0;padding:0;height:100%;}
+body{
+  background:rgba(0,0,0,0.5);
+  background-size:cover;
+  font-family: 'Uncial Antiqua', cursive;
+  display:flex;
+  flex-direction:column;
+  justify-content:center;
+  align-items:center;
+}
+svg{font-weight:bold;max-width:9000px;height:auto;}
